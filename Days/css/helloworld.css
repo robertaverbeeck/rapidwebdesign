@@ -1,0 +1,42 @@
+h1 {
+    font-size: 70px;
+    font-family: Pristina;
+    border-bottom-style: groove;
+    color: darkcyan;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: "High Tower Text";
+    color: dimgray;
+}
+
+p, div {
+    text-align: left;
+    font-size: 20px;
+    font-family: "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+#profile {
+    height: 200px;
+    float: right;
+    margin: 0px 0px 15px 15px;
+}
+
+#blog, p {
+    color: slategray;
+    padding: 10px;
+    padding-bottom: 40px;
+    border-bottom-style: dashed;
+    border-color: orange;
+}
+
+div {
+    font-family: "High Tower Text";
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+li {
+    display: block;
+}

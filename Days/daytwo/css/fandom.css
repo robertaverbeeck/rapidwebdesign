@@ -1,0 +1,25 @@
+#title {
+    font-size: 50px;
+    font-family: "High Tower Text";
+    padding-top: 30px;
+    padding-left: 20px;
+    border-bottom-style: outset;
+    border-color: slategray;
+}
+
+p {
+    font-size: 40px;
+    font-family: "Agency FB";
+    padding-left: 25px;
+}
+
+img {
+    width: 400px;
+    float: left;
+    height: 250px;
+    padding-left: 10px;
+}
+
+html {
+    background: #a34f4f;
+}

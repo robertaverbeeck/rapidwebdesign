@@ -1,0 +1,19 @@
+#title {
+    font-size: 50px;
+    font-family: "Showcard Gothic";
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    font-family: "Agency FB";
+    text-align: center;
+}
+
+html {
+    background: #3a5aa3;
+}
+
+img {
+    width: 700px;
+}
